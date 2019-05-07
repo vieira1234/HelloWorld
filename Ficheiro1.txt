@@ -2,4 +2,4 @@
 
 Vou lhe chamar Ficheiro 1.
 
-Imaginem que estou a usar uma implementação com Arrays!
+Imaginem que estou a usar uma implementação com Arraylist!
